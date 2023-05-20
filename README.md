@@ -7,7 +7,7 @@ AI Engineer @Pepperstone
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haihodac-pepperstone&show_icons=true&theme=radical)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=haihodac-pepperstone&layout=compact&langs_count=6&hide=tex&theme=dark)
+![Most used languages](https://github-readme-stats.vercel.app/api/api?username=haihodac-pepperstone&top-langs&layout=compact&langs_count=6&hide=tex&theme=dark)
 
 <!--
 **haihodac-pepperstone/haihodac-pepperstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
